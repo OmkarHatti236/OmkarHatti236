@@ -19,7 +19,7 @@ Building backend applications and learning something new every day.
 - 🗄️ Working with **SQLAlchemy & SQLite**
 - 🌱 Currently learning **REST APIs & Backend Architecture**
 - 🚀 Building projects to improve my development skills
-- 🎯 Goal: Become a strong **Backend Developer**
+- 🎯 Goal: **Passionate About Data Science & ML**
 
 ---
 
