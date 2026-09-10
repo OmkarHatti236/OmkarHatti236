@@ -6,7 +6,7 @@ Currently learning and building projects with **FastAPI, SQL, Machine Learning, 
 
 ### 🛠️ Tech
 
-`Python` • `SQL` • `FastAPI` • `Pandas` • `NumPy` • `Scikit-learn` • `Git` • `GitHub`
+`Python` • `SQL` • `FastAPI` • `Pandas` • `NumPy` • `Data Analytics` • `Git` • `GitHub`
 
 ### 🚀 Currently
 
